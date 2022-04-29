@@ -2,6 +2,11 @@
 
 On the Effectiveness of Interpretable Feedforward Neural Network (IJCNN 2022)
 
+Publication:
+Li, M. Q., Fung, B. C. M., & Abusitta, A. On the Effectiveness of Interpretable Feedforward Neural Network. In Proceedings of the International Conference on Joint Conference on Neural Networks (IJCNN), pages 1-8, Padova, Italy: IEEE, July 2022.   (Pages to be updated)
+
+
+
 This repository contains the implementation of the IFFNNs proposed in our IJCNN 2022 paper and the evaluation code.
 
 
@@ -42,3 +47,5 @@ python evaluate_interpretability_MNIST.py
 Disclaimer:
 
 The software is provided as-is with no warranty or support. We do not take any responsibility for any damage, loss of income, or any problems you might experience from using our software. If you have questions, you are encouraged to consult the paper and the source code. If you find our software useful, please cite our paper above.
+
+Copyright 2022 McGill University. All rights reserved.
