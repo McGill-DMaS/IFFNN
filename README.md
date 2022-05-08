@@ -3,7 +3,7 @@
 On the Effectiveness of Interpretable Feedforward Neural Network (IJCNN 2022)
 
 Publication:
-Li, M. Q., Fung, B. C. M., & Abusitta, A. On the Effectiveness of Interpretable Feedforward Neural Network. In Proceedings of the International Conference on Joint Conference on Neural Networks (IJCNN), pages 1-8, Padova, Italy: IEEE, July 2022.   (Pages to be updated)
+M. Q. Li, B. C. M. Fung, and A. Abusitta. On the Effectiveness of Interpretable Feedforward Neural Network. In Proceedings of the International Conference on Joint Conference on Neural Networks (IJCNN), pages 1-8, Padova, Italy: IEEE, July 2022.   (Pages to be updated)
 
 
 
